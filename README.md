@@ -43,10 +43,10 @@ pip install customtkinter
 ## ▶️ Running the Game
 
 ```bash
-python pig_dice_game.py
+python main.py
 ```
 
-Replace `pig_dice_game.py` with your actual file name.
+Replace `main.py` with your actual file name.
 
 ---
 
